@@ -4,7 +4,7 @@
 
 ## 作品示例
 
-[《你练的不是运动员，是耗材》原版视频](../../releases/download/showcase-v1/mitophagy-explainer.mp4) · 1920×1080 · 60 fps · 中文字幕 · 0.1 秒封面
+[《你练的不是运动员，是耗材》原版视频](https://github.com/Lucky-kxx/remotion-beat-explainer/releases/download/showcase-v1/mitophagy-explainer.mp4) · 1920×1080 · 60 fps · 中文字幕 · 0.1 秒封面
 
 示例展示了「能量 → 适应 → 训练」的三段主线、跟随画面的图解标注，以及分章节修订时如何保留原有音乐与音效。仓库提供通用创作技能，品牌素材与专用动画模板独立保留。
 
